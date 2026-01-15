@@ -20,10 +20,8 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **Google Sheets & Excel Add-ons** at Drivetrain AI
-- ⚡ I reduced CI/CD pipeline time by **75%** (6min → 1.5min)
+- 🔭 Currently building **frontend** at Drivetrain AI
 - 🛠️ I build **fast, type-safe frontend applications** at high-growth startups
-- 🎓 **IIT Kanpur** graduate (B.Tech '23)
 - 💡 I care deeply about **developer experience**, **performance**, and **shipping products users love**
 
 ---
@@ -48,7 +46,7 @@
 
 ### 🌟 Open Source Contributions
 
-I actively contribute to popular open source projects:
+I have contributed to popular open source projects:
 
 | Project | PR | Description |
 |---------|-----|-------------|
@@ -57,26 +55,11 @@ I actively contribute to popular open source projects:
 | **query.gg** | — | Found and reported error in ui.dev's official course |
 | **GreatFrontEnd** | — | Contributed test case to interview prep platform |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gk9848970&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gk9848970&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk9848970&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
 ### 🏢 Work GitHub Activity
 
 > 💼 Most of my daily coding happens on my **company GitHub account**.
 
-🔗 **Work Account:** [github.com/YOUR_WORK_USERNAME](https://github.com/YOUR_WORK_USERNAME)
+🔗 **Work Account:** [github.com/gaurav-dt](https://github.com/gaurav-dt)
 
 <p align="center">
   <img src="./assets/work-github-graph.png" alt="Work GitHub Contributions" width="90%" />
@@ -84,29 +67,13 @@ I actively contribute to popular open source projects:
 
 <p align="center"><em>Contribution graph from Drivetrain AI (Dec 2024 - Present)</em></p>
 
-| Metric | Count |
-|--------|-------|
-| Commits | 200+ |
-| Pull Requests Merged | 50+ |
-| Code Reviews | 100+ |
-
----
-
-### 🏆 LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/gk9848970?theme=dark&font=Nunito&ext=heatmap" width="60%" />
-</p>
-
----
-
 ### 💼 What I've Shipped (at work)
 
 While I can't share code, here's what I've built:
 
 | Project | Impact |
 |---------|--------|
-| 🔌 **Google Sheets & Excel Add-ons** | Prevented enterprise customer churn |
+| 🔌 **Google Sheets Add-ons** | Got Google sheets addon published import for customer board decks |
 | 📄 **PDF Automation System** | Reports with pagination & custom covers for board meetings |
 | ⚡ **CI/CD Optimization** | Reduced pipeline time by 75% (6min → 1.5min) |
 | 🔧 **Figma Plugin** | Auto-converts designs to production React components |
@@ -118,7 +85,6 @@ While I can't share code, here's what I've built:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-kumar-84b361188/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/gk9848970/">LeetCode</a> •
   <a href="mailto:gk9848970@gmail.com">Email</a>
 </p>
 
