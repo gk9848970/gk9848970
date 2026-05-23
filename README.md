@@ -62,7 +62,7 @@ I have contributed to popular open source projects:
   <img src="./assets/work-github-graph.png" alt="Work GitHub Contributions" width="90%" />
 </p>
 
-<p align="center"><em>Contribution graph from Drivetrain AI (Dec 2024 - Present)</em></p>
+<p align="center"><em>Contribution graph from Drivetrain AI (Dec 2024 - March 2026)</em></p>
 
 ### 💼 What I've Shipped (at work)
 
